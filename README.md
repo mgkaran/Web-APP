@@ -1,4 +1,4 @@
-# Food Blog
+# Interesting Facts Blog
 
 after downloading the file , open the folder directory in code editor
 
